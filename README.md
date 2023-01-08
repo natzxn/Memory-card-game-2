@@ -1,4 +1,4 @@
-#Memory Card Game 2
+# Memory Card Game 2
 
 Memory card game created using HTML&CSS and JavaScript
 
